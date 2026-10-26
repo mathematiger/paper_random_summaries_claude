@@ -12,4 +12,8 @@ Structured summaries of papers I read, filed by Claude via the `/paper-ablegen` 
 ### combinatorial-optimization / llm-heuristic-discovery
 
 - [VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems](combinatorial-optimization/llm-heuristic-discovery/2025-berto-vrpagent.md) — Berto et al., 2025 · added 2026-10-26
+
+### deep-learning / numerical-stability
+
+- [A Fix for Softmax and Cross-Entropy](deep-learning/numerical-stability/2026-barron-softmax-fix.md) — Barron et al., 2026 · added 2026-10-26
 <!-- INDEX:END -->
