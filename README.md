@@ -16,4 +16,8 @@ Structured summaries of papers I read, filed by Claude via the `/paper-ablegen` 
 ### deep-learning / numerical-stability
 
 - [A Fix for Softmax and Cross-Entropy](deep-learning/numerical-stability/2026-barron-softmax-fix.md) — Barron et al., 2026 · added 2026-10-26
+
+### statistics / conformal-prediction
+
+- [Theoretical Foundations of Conformal Prediction](statistics/conformal-prediction/2024-angelopoulos-conformal-foundations.md) — Angelopoulos et al., 2024 · added 2026-10-27
 <!-- INDEX:END -->
