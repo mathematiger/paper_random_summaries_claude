@@ -17,6 +17,10 @@ Structured summaries of papers I read, filed by Claude via the `/paper-ablegen` 
 
 - [A Fix for Softmax and Cross-Entropy](deep-learning/numerical-stability/2026-barron-softmax-fix.md) — Barron et al., 2026 · added 2026-10-26
 
+### power-grids / power-flow
+
+- [Superposition theorem for flexible grids](power-grids/power-flow/2023-marot-superposition-theorem.md) — Marot et al., 2023 · added 2026-10-28
+
 ### statistics / conformal-prediction
 
 - [Theoretical Foundations of Conformal Prediction](statistics/conformal-prediction/2024-angelopoulos-conformal-foundations.md) — Angelopoulos et al., 2024 · added 2026-10-27
