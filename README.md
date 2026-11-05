@@ -21,6 +21,10 @@ Structured summaries of papers I read, filed by Claude via the `/paper-ablegen` 
 
 - [Superposition theorem for flexible grids](power-grids/power-flow/2023-marot-superposition-theorem.md) — Marot et al., 2023 · added 2026-10-28
 
+### power-grids / rl-grid-control
+
+- [EnliteAI FLEX RL demo: RL agent with GNN, bus-wise critic and AC-checked MCTS for MV grid control (Enlit Europe 2026, no paper yet)](power-grids/rl-grid-control/2026-greilhuber-enliteai-flex-rl-demo.md) — Greilhuber (enliteAI), 2026 · added 2026-11-06
+
 ### statistics / conformal-prediction
 
 - [Theoretical Foundations of Conformal Prediction](statistics/conformal-prediction/2024-angelopoulos-conformal-foundations.md) — Angelopoulos et al., 2024 · added 2026-10-27
