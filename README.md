@@ -17,6 +17,10 @@ Structured summaries of papers I read, filed by Claude via the `/paper-ablegen` 
 
 - [A Fix for Softmax and Cross-Entropy](deep-learning/numerical-stability/2026-barron-softmax-fix.md) — Barron et al., 2026 · added 2026-10-26
 
+### machine-learning / calibration
+
+- [Beyond Calibration: Estimating the Grouping Loss of Modern Neural Networks](machine-learning/calibration/2023-perez-lebel-grouping-loss.md) — Perez-Lebel et al., 2023 · added 2026-11-07
+
 ### power-grids / power-flow
 
 - [Superposition theorem for flexible grids](power-grids/power-flow/2023-marot-superposition-theorem.md) — Marot et al., 2023 · added 2026-10-28
